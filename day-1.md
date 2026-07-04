@@ -19,11 +19,8 @@
 
 <h2>##Review</h2>
 <h2>### Awesome Code Snippet</h2>
-<p>
-  Convert an image or video from dark mode to light mode using
-  <a href="https://www.ffmpeg.org">ffmpeg</a>.
-</p>
+Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
-<pre><code class="language-bash">
+```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
-</code></pre>
+```
