@@ -1,7 +1,7 @@
 <h1>#Daily Learning</h1>
 
 <h2>##Morning Planning</h2>
-
+<h1>![Cloudy morning](https://octodex.github.com/images/cloud.jpg)</h1>
 <ul>
   <li>
     <input type="checkbox">
